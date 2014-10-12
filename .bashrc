@@ -112,4 +112,3 @@ alias tmux='tmux -2'
 doge
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
-#testinG
